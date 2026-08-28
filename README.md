@@ -82,7 +82,7 @@ An end-to-end retail analytics project simulating a real-world business data pip
 
 **Key outcome:** Identified a significant sales target gap and developed data-driven recommendations for customer targeting, product assortment, cross-selling and regional growth.
 
-🔗 **[View Project]([https://github.com/sharathn02/End-to-End-Retail-Sales-Analytics-and-Strategic-Growth-Analysis](https://github.com/sharathn02/End-to-End-Retail-Sales-Analytics))**
+🔗 **[View Project](https://github.com/sharathn02/End-to-End-Retail-Sales-Analytics)**
 
 ---
 
