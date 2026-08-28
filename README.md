@@ -176,7 +176,7 @@ I'm currently looking for opportunities to apply my analytical skills in a real-
 
 If you're interested in **Data Analytics, Business Intelligence, or data-driven decision making**, feel free to connect!
 
-📧 **Email:** [Add your email here]
+📧 **Email:** sharathn1602@gmail.com
 
 💼 **LinkedIn:** [Add your LinkedIn profile here]
 
