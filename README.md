@@ -104,7 +104,7 @@ Analyzed a global restaurant dataset to understand restaurant performance, custo
 
 **Key outcome:** Identified opportunities around unrated restaurants, table-booking adoption and regional performance to support restaurant growth.
 
-🔗 **[View Project]([https://github.com/sharathn02/Restaurant-Performance-and-Growth-Strategy-Analysis](https://github.com/sharathn02/Restaurant-Performance-Growth-Analysis))**
+🔗 **[View Project](https://github.com/sharathn02/Restaurant-Performance-Growth-Analysis)**
 
 ---
 
@@ -125,7 +125,7 @@ Analyzed employee absenteeism patterns to understand the factors associated with
 * Quantified potential business impact
 * Developed actionable recommendations
 
-🔗 **[View Project]([https://github.com/sharathn02/Abseteeism_anlaysis_project](https://github.com/sharathn02/Employee-Absenteeism-Analysis))**
+🔗 **[View Project](https://github.com/sharathn02/Employee-Absenteeism-Analysis)**
 
 ---
 
